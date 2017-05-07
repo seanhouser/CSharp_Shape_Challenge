@@ -1,0 +1,5 @@
+E:\Sean\Documents\GitHub\OldcastleChallenge\OldcastleChallenge\bin\Debug\OldcastleChallenge.exe.config
+E:\Sean\Documents\GitHub\OldcastleChallenge\OldcastleChallenge\bin\Debug\OldcastleChallenge.exe
+E:\Sean\Documents\GitHub\OldcastleChallenge\OldcastleChallenge\bin\Debug\OldcastleChallenge.pdb
+E:\Sean\Documents\GitHub\OldcastleChallenge\OldcastleChallenge\obj\Debug\OldcastleChallenge.exe
+E:\Sean\Documents\GitHub\OldcastleChallenge\OldcastleChallenge\obj\Debug\OldcastleChallenge.pdb
